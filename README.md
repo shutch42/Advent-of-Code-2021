@@ -1,2 +1,2 @@
 # Advent of Code 2021
-These are my solutions to the 2021 Advent of Code challenge. It's still a work in progress, but I'll add more solutions when I have free time.
+These are my solutions to the 2021 Advent of Code challenge. I did each task in C++, and compiled using a makefile. I haven't finished every challenge yet, but I'll keep working on it!
